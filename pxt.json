@@ -1,0 +1,27 @@
+{
+    "name": "LED",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "microbit-robot": "github:MKleinSB/microbit-robot#2416acc2955cda159c119f903d032cf76c618502",
+        "MotionKit V2": "github:tinysuperlab/motionkitv2#71deb206e573bef6d45615cb04ef7587c6e68820"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.41",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
