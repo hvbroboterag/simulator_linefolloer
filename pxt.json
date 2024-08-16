@@ -1,5 +1,5 @@
 {
-    "name": "LED",
+    "name": "Motionkit Simulator",
     "description": "",
     "dependencies": {
         "core": "*",
