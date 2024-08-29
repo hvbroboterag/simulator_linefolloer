@@ -1,5 +1,5 @@
 {
-    "name": "Motionkit Simulator",
+    "name": "simulator_linefollower",
     "description": "",
     "dependencies": {
         "core": "*",
